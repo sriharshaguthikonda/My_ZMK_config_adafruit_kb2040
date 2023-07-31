@@ -6,9 +6,14 @@ knob goblin - 35 on zmk selection
 
 
 
+adafruit_kb2040 pinout
+
+![image](https://github.com/sriharshaguthikonda/My_ZMK_config_adafruit_kb2040/assets/16268244/0b85e344-5740-42f9-abf5-4e10240fc9a5)
+
+
+
+
 the encoder wiring help was taken form this link -  https://kriscables.com/handwire-rotary-encoder-split-keyboard/
-
-
 
 
 ![image](https://github.com/sriharshaguthikonda/My_ZMK_config_adafruit_kb2040/assets/16268244/e797b442-fa47-49e1-bb55-8b8778935f19)
