@@ -5,6 +5,12 @@ My_ZMK_config_adafruit_kb2040 is zmk config for adafruit_kb2040 keyboard
 knob goblin - 35 on zmk selection
 
 
+
+the encoder wiring help was taken form this link -  https://kriscables.com/handwire-rotary-encoder-split-keyboard/
+
+
+
+
 ![image](https://github.com/sriharshaguthikonda/My_ZMK_config_adafruit_kb2040/assets/16268244/e797b442-fa47-49e1-bb55-8b8778935f19)
 
 
