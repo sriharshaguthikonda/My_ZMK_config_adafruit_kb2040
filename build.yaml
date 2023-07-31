@@ -14,4 +14,4 @@
 ---
 include:
   - board: adafruit_kb2040
-    shield: tackball_ergodox
+    shield: knob_goblin
